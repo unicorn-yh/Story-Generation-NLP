@@ -1,0 +1,27 @@
+数据集为ROCStories，2016 年 NAACL 会议论文提出了故事结尾任务，并引入了数据集 ROCStories。
+数据集下载网站：https://cs.rochester.edu/nlp/rocstories/
+
+该数据集包括了九万多个小故事，各种各样，内容新奇，而每一个故事又由五句话构成，每句话都是 10 词左右的句子，涵盖多个领域话题。
+该语料库是一个高质量的日常生活短篇故事集，包含了日常事件之间的各种常识性、因果关系和时间关系，能够在一系列事件中学习故事结构，可用于训练丰富连贯的故事生成模型。
+
+例子如下：
+
+```
+Jane was working at a diner. Suddenly, 
+a customer barged up to the counter. 
+He began yelling about how long his food was taking. 
+Jane didn’t know how to react. 
+Luckily, her coworker intervened and calmed the man down.
+```
+
+
+
+数据集包含故事id（storyid），故事标题（storytitle），句子1,2,3,4,5（sentence1,2,3,4,5）
+
+本数据共50000条数据，按照训练集：测试集：验证集 = 6:2:2划分数据集
+
+训练集：30000条
+
+测试集：10000条
+
+验证集：10000条
