@@ -1,0 +1,1 @@
+Hunger\r\n\Roger was hungry.\r\n\He checked the fridge.\r\n\The fridge was empty.\r\n\Roger went to the store.\r\n\He came home with lots of food.\r\n\

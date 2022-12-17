@@ -1,0 +1,1 @@
+Robot\r\n\Donovan decided to build a robot.\r\n\He went to the hardware store to buy parts.\r\n\He made a square head with an antenna.\r\n\He added claw shaped hands.\r\n\The finished robot could walk and talk.\r\n\

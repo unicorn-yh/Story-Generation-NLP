@@ -1,0 +1,1 @@
+Exam\r\n\Tom is supposed to be taking an exam today.\r\n\He hired someone to take the exam for him instead.\r\n\The person he hired showed up and took the exam.\r\n\The teacher graded the exam.\r\n\Tom passed the exam.\r\n\
