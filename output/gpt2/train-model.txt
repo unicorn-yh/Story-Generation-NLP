@@ -1,0 +1,12 @@
+started epoch 0
+/usr/local/lib/python3.8/dist-packages/torch/optim/lr_scheduler.py:138: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+Epoch 0 has loss 13455.683310374618
+started epoch 1
+Epoch 1 has loss 13352.844423286617
+started epoch 2
+Epoch 2 has loss 13353.959836542606
+started epoch 3
+Epoch 3 has loss 13346.500084221363
+started epoch 4
+Epoch 4 has loss 13358.591995038092

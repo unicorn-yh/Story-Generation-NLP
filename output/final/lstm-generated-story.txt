@@ -1,0 +1,80 @@
+Original Story: We had no reservations and had to sit at the bar.
+Generated Story: We had no reservations and had to sit at the bar. We went to the theater and purchased the tickets. After two weeks the family returned home excited for the next vacation. We went back to the entrance and was able to see the correct movie. We went to the theater and bought popcorn and drinks. They went to the concert and had a great time.
+Similarity: 0.4037988943634146
+
+Original Story: I dreamed my friend's daughter broke up with her boyfriend.
+Generated Story: I dreamed my friend's daughter broke up with her boyfriend. When I came home from school, I dressed up for a party. I decided that I wanted to see one new movie each week. When I was young I went to a slumber party at my friend Tim's house. I looked for a job and home the entire time I stayed there. I was visiting my hometown for the first time in twenty years.
+Similarity: 0.30333654924201137
+
+Original Story: Everyone told me to try it.
+Generated Story: Everyone told me to try it. When I got home I took Motrin. Since I had been studying for a week, I felt nothing could go wrong. He bought all the ingredients to bake it. Since I needed to go, I went to the bathroom in spite of the fly. Thankfully when I took it, I was cured.
+Similarity: 0.32005232371448145
+
+Original Story: Neither one of them could get the nerve to throw a punch.
+Generated Story: Neither one of them could get the nerve to throw a punch. However, everyone cancelled their plans on the last day. The workers tried their best to keep everyone entertained. The townspeople were horrified and boycotted the practice. The islanders knew it was time to go and they evacuated. The boys were so excited they couldn't even sleep that night.
+Similarity: 0.3757728356045111
+
+Original Story: Mary is pregnant.
+Generated Story: Mary is pregnant. She decided to work at a daycare center. She wrote a story for her puppet, and prepared for her performance. She was able to pay her rent on time. She decided to make her small town friendlier to recycling. She decided to enroll in community college to develop her skills.
+Similarity: 0.3608981389146587
+
+Original Story: Rhonda thought the world was against her but was determined.
+Generated Story: Rhonda thought the world was against her but was determined. She was able to reschedule her flight to land the day of the concert. Cathy actually enjoyed her day of window shopping at the mall. Kate decided to visit to compare the prices to her usual store. Allie was excited to attend the concert. Cathy was glad with her choice of television for her home.
+Similarity: 0.3815974937367259
+
+Original Story: He liked to feel more important than anyone else.
+Generated Story: He liked to feel more important than anyone else. He was very happy when he saw his paycheck with the overtime on it. He entered a local songwriting contest to show off his skills. He was happy that he learned how to cook. He spent a lot of time familiarizing himself with the street names. He decided to advertise his business in the local paper.
+Similarity: 0.3720571755561163
+
+Original Story: They day came and they went to the race.
+Generated Story: They day came and they went to the race. They were excited to go on all the rides. They took their new skills and practiced at home. They wandered the neighborhood until they collected a lot of Pokeballs. They were excited to wear the items on the first day of school. They rode all the rides many times.
+Similarity: 0.430473833374968
+
+Original Story: Sarah's girlfriend just wandered around the neighborhood aimlessly.
+Generated Story: Sarah's girlfriend just wandered around the neighborhood aimlessly. Ellie was crushed that everyone but her was invited to Katy's party. Janet was very happy when she walked back to her house with a puppy. Jill was invited out to dinner with her friends from work. Patty decided to buy the girl new clothes and food for her family. Cathy was heartbroken that she lost the bid for the doll.
+Similarity: 0.3285250571867715
+
+Original Story: Maria went inside and put her takeaway on the kitchen table.
+Generated Story: Maria went inside and put her takeaway on the kitchen table. She found all the ingredients she needed in the refrigerator. She took off her clothes and put them into the dirty laundry. She went to the store and bought her supplies. She went into the kitchen to take the turkey into the dining room. She looked in her cupboard for ingredients.
+Similarity: 0.3489508815022395
+
+Original Story: Mark attempted to call her, but she would not answer.
+Generated Story: Mark attempted to call her, but she would not answer. Tony decided to stay home instead of going to work. Max was excited to have his friend Mason sleepover on Friday. Paul was excited to go on his first business trip to a convention. Barry was so disappointed that he missed out on the vacation package. Bob went to the interview with his head held high and got the job.
+Similarity: 0.40166227080918104
+
+Original Story: Barry was pleased to see the park would be finished by December.
+Generated Story: Barry was pleased to see the park would be finished by December. Barry was pleased that he would be able to skateboard freely. Max was excited to have his friend Mason sleepover on Friday. Paul was excited to go on his first business trip to a convention. Barry was thrilled that he could organize a local kickball league. Barry was excited to learn to ride a unicycle.
+Similarity: 0.5644882906498376
+
+Original Story: Larry was thinking of cheating on his test.
+Generated Story: Larry was thinking of cheating on his test. He decided to advertise his business in the local paper. He entered a local songwriting contest to show off his skills. He was very happy when he saw his paycheck with the overtime on it. He was betting a large portion of his income on scratch off tickets. He decided to learn to sing to overcome his handicap.
+Similarity: 0.3201526376023569
+
+Original Story: Dad was too cold, Mom was too warm, and the kids also could not agree.
+Generated Story: Dad was too cold, Mom was too warm, and the kids also could not agree. The kids decided they would plant a garden every year. The kids brought the fish home and took care of it. The kids worked all summer on their projects for the county fair. When Elaine turned 10, her parents told her she could get a puppy. The family made it their goal to go to twenty national parks.
+Similarity: 0.40901672034922787
+
+Original Story: They had agreed on a Mexican restaurant.
+Generated Story: They had agreed on a Mexican restaurant. They were in charge of getting lunches ready for each lunch period. She was excited to start renovations. Everyone sat down at dinner and enjoyed eating the tacos together. She brought the cake to an office party. The family arrived at the airport with plenty of time.
+Similarity: 0.3490773493464321
+
+Original Story: Bob was on the phone all day.
+Generated Story: Bob was on the phone all day. He decided to advertise his business in the local paper. He was very happy when he saw his paycheck with the overtime on it. He was betting a large portion of his income on scratch off tickets. He entered a local songwriting contest to show off his skills. He was sad when his vacation was over.
+Similarity: 0.3429797200094887
+
+Original Story: Cathy decided it would be fun to have a dunk tank.
+Generated Story: Cathy decided it would be fun to have a dunk tank. Kate decided to visit to compare the prices to her usual store. Cathy was glad with her choice of television for her home. Cathy actually enjoyed her day of window shopping at the mall. Cathy decided she would try out one spin class. Cathy decided to purchase a playground for her backyard.
+Similarity: 0.340281589839713
+
+Original Story: He decided he might like to get a seeing eye dog.
+Generated Story: He decided he might like to get a seeing eye dog. He was very happy when he saw his paycheck with the overtime on it. He was happy that he learned how to cook. Paul was excited to go on his first business trip to a convention. Paul decided to use his creativity to create a clothing company. He entered a local songwriting contest to show off his skills.
+Similarity: 0.40574696621756023
+
+Original Story: He punched a hole in the wall of his house.
+Generated Story: He punched a hole in the wall of his house. Bob found political speeches an effective remedy to put him to sleep. Tom's guest became afraid and left quickly. His friend got angry that Bob had borrowed the boat. Bill was miserable with his construction job. He was very happy when he saw his paycheck with the overtime on it.
+Similarity: 0.43984406131026554
+
+Original Story: She answered the calls, ruining the proposal.
+Generated Story: She answered the calls, ruining the proposal. Janice was happy she would be ready for her date. Cathy was heartbroken that she lost the bid for the doll. Cathy was elated to get the phone call that the houseboat was hers. Susan was glad that she decided to get the surgery. Cathy was glad with her choice of television for her home.
+Similarity: 0.36357523957906046
+
