@@ -1,0 +1,240 @@
+Original Story:
+2032 	 We had no reservations and had to sit at the bar.
+Actual Story:
+2033 	 We had a great time catching up, and vowed to meet soon.
+Predicted Story:
+2888 	 We went to the theater and purchased the tickets.
+749 	 After two weeks the family returned home excited for the next vacation.
+2891 	 We went back to the entrance and was able to see the correct movie.
+9573 	 We went to the theater and bought popcorn and drinks.
+311 	 They went to the concert and had a great time.
+Similarity: 0.4037988943634146
+
+Original Story:
+2222 	 I dreamed my friend's daughter broke up with her boyfriend.
+Actual Story:
+2223 	 As a result her grades in college were falling.
+Predicted Story:
+4933 	 When I came home from school, I dressed up for a party.
+3697 	 I decided that I wanted to see one new movie each week.
+1831 	 When I was young I went to a slumber party at my friend Tim's house.
+8944 	 I looked for a job and home the entire time I stayed there.
+4417 	 I was visiting my hometown for the first time in twenty years.
+Similarity: 0.30333654924201137
+
+Original Story:
+1442 	 Everyone told me to try it.
+Actual Story:
+1443 	 I always refused.
+Predicted Story:
+2302 	 When I got home I took Motrin.
+7208 	 Since I had been studying for a week, I felt nothing could go wrong.
+5270 	 He bought all the ingredients to bake it.
+5552 	 Since I needed to go, I went to the bathroom in spite of the fly.
+2303 	 Thankfully when I took it, I was cured.
+Similarity: 0.32005232371448145
+
+Original Story:
+4144 	 Neither one of them could get the nerve to throw a punch.
+Actual Story:
+4145 	 So, they both just ran home.
+Predicted Story:
+7095 	 However, everyone cancelled their plans on the last day.
+10395 	 The workers tried their best to keep everyone entertained.
+5561 	 The townspeople were horrified and boycotted the practice.
+10545 	 The islanders knew it was time to go and they evacuated.
+559 	 The boys were so excited they couldn't even sleep that night.
+Similarity: 0.3757728356045111
+
+Original Story:
+7273 	 Mary is pregnant.
+Actual Story:
+7274 	 She is anxiously awaiting giving birth.
+Predicted Story:
+8654 	 She decided to work at a daycare center.
+8896 	 She wrote a story for her puppet, and prepared for her performance.
+6593 	 She was able to pay her rent on time.
+8762 	 She decided to make her small town friendlier to recycling.
+2660 	 She decided to enroll in community college to develop her skills.
+Similarity: 0.3608981389146587
+
+Original Story:
+2050 	 Rhonda thought the world was against her but was determined.
+Actual Story:
+2051 	 She made it to the gate right as they were about to close the door.
+Predicted Story:
+3111 	 She was able to reschedule her flight to land the day of the concert.
+9887 	 Cathy actually enjoyed her day of window shopping at the mall.
+3506 	 Kate decided to visit to compare the prices to her usual store.
+4297 	 Allie was excited to attend the concert.
+5105 	 Cathy was glad with her choice of television for her home.
+Similarity: 0.3815974937367259
+
+Original Story:
+1304 	 He liked to feel more important than anyone else.
+Actual Story:
+1305 	 But the new boy was too popular for Ned's liking.
+Predicted Story:
+1792 	 He was very happy when he saw his paycheck with the overtime on it.
+9344 	 He entered a local songwriting contest to show off his skills.
+8957 	 He was happy that he learned how to cook.
+387 	 He spent a lot of time familiarizing himself with the street names.
+9021 	 He decided to advertise his business in the local paper.
+Similarity: 0.3720571755561163
+
+Original Story:
+1875 	 They day came and they went to the race.
+Actual Story:
+1876 	 They loved all the pomp and circumstance of the races.
+Predicted Story:
+350 	 They were excited to go on all the rides.
+6550 	 They took their new skills and practiced at home.
+1934 	 They wandered the neighborhood until they collected a lot of Pokeballs.
+3239 	 They were excited to wear the items on the first day of school.
+8342 	 They rode all the rides many times.
+Similarity: 0.430473833374968
+
+Original Story:
+5608 	 Sarah's girlfriend just wandered around the neighborhood aimlessly.
+Actual Story:
+5609 	 It turned out that her girlfriend had just been playing Pokemon Go!
+Predicted Story:
+10693 	 Ellie was crushed that everyone but her was invited to Katy's party.
+485 	 Janet was very happy when she walked back to her house with a puppy.
+1351 	 Jill was invited out to dinner with her friends from work.
+7943 	 Patty decided to buy the girl new clothes and food for her family.
+8525 	 Cathy was heartbroken that she lost the bid for the doll.
+Similarity: 0.3285250571867715
+
+Original Story:
+1951 	 Maria went inside and put her takeaway on the kitchen table.
+Actual Story:
+1952 	 Maria's boyfriend saw Maria's takeaway and asked what she bought.
+Predicted Story:
+4720 	 She found all the ingredients she needed in the refrigerator.
+10959 	 She took off her clothes and put them into the dirty laundry.
+8894 	 She went to the store and bought her supplies.
+2607 	 She went into the kitchen to take the turkey into the dining room.
+644 	 She looked in her cupboard for ingredients.
+Similarity: 0.3489508815022395
+
+Original Story:
+1978 	 Mark attempted to call her, but she would not answer.
+Actual Story:
+1979 	 Mark felt so sad, because he is now a single man.
+Predicted Story:
+6758 	 Tony decided to stay home instead of going to work.
+5815 	 Max was excited to have his friend Mason sleepover on Friday.
+4263 	 Paul was excited to go on his first business trip to a convention.
+2003 	 Barry was so disappointed that he missed out on the vacation package.
+11693 	 Bob went to the interview with his head held high and got the job.
+Similarity: 0.40166227080918104
+
+Original Story:
+7330 	 Barry was pleased to see the park would be finished by December.
+Actual Story:
+7331 	 Barry was pleased that he would be able to skateboard freely.
+Predicted Story:
+7331 	 Barry was pleased that he would be able to skateboard freely.
+5815 	 Max was excited to have his friend Mason sleepover on Friday.
+4263 	 Paul was excited to go on his first business trip to a convention.
+1223 	 Barry was thrilled that he could organize a local kickball league.
+6041 	 Barry was excited to learn to ride a unicycle.
+Similarity: 0.5644882906498376
+
+Original Story:
+8161 	 Larry was thinking of cheating on his test.
+Actual Story:
+8162 	 He was so nervous.
+Predicted Story:
+9021 	 He decided to advertise his business in the local paper.
+9344 	 He entered a local songwriting contest to show off his skills.
+1792 	 He was very happy when he saw his paycheck with the overtime on it.
+3746 	 He was betting a large portion of his income on scratch off tickets.
+27 	     He decided to learn to sing to overcome his handicap.
+Similarity: 0.3201526376023569
+
+Original Story:
+7868 	 Dad was too cold, Mom was too warm, and the kids also could not agree.
+Actual Story:
+7869 	 Dad and Mom decided it was time to have zoned thermostats installed.
+Predicted Story:
+8531 	 The kids decided they would plant a garden every year.
+9488 	 The kids brought the fish home and took care of it.
+9457 	 The kids worked all summer on their projects for the county fair.
+11013 	 When Elaine turned 10, her parents told her she could get a puppy.
+1693 	 The family made it their goal to go to twenty national parks.
+Similarity: 0.40901672034922787
+
+Original Story:
+2828 	 They had agreed on a Mexican restaurant.
+Actual Story:
+2829 	 Whitney got there first and reserved a table.
+Predicted Story:
+8960 	 They were in charge of getting lunches ready for each lunch period.
+4622 	 She was excited to start renovations.
+173 	 Everyone sat down at dinner and enjoyed eating the tacos together.
+1462 	 She brought the cake to an office party.
+2215 	 The family arrived at the airport with plenty of time.
+Similarity: 0.3490773493464321
+
+Original Story:
+1399 	 Bob was on the phone all day.
+Actual Story:
+1400 	 It was raining something fierce when he finally wasn't.
+Predicted Story:
+9021 	 He decided to advertise his business in the local paper.
+1792 	 He was very happy when he saw his paycheck with the overtime on it.
+3746 	 He was betting a large portion of his income on scratch off tickets.
+9344 	 He entered a local songwriting contest to show off his skills.
+665 	 He was sad when his vacation was over.
+Similarity: 0.3429797200094887
+
+Original Story:
+3614 	 Cathy decided it would be fun to have a dunk tank.
+Actual Story:
+3615 	 Cathy choose the principal, and the vice principal to be in the tank.
+Predicted Story:
+3506 	 Kate decided to visit to compare the prices to her usual store.
+5105 	 Cathy was glad with her choice of television for her home.
+9887 	 Cathy actually enjoyed her day of window shopping at the mall.
+9927 	 Cathy decided she would try out one spin class.
+10226 	 Cathy decided to purchase a playground for her backyard.
+Similarity: 0.340281589839713
+
+Original Story:
+3645 	 He decided he might like to get a seeing eye dog.
+Actual Story:
+3646 	 He got one named Tony.
+Predicted Story:
+1792 	 He was very happy when he saw his paycheck with the overtime on it.
+8957 	 He was happy that he learned how to cook.
+4263 	 Paul was excited to go on his first business trip to a convention.
+6291 	 Paul decided to use his creativity to create a clothing company.
+9344 	 He entered a local songwriting contest to show off his skills.
+Similarity: 0.40574696621756023
+
+Original Story:
+9 	    He punched a hole in the wall of his house.
+Actual Story:
+10 	    Tom's guest became afraid and left quickly.
+Predicted Story:
+9911 	 Bob found political speeches an effective remedy to put him to sleep.
+10 	 Tom's guest became afraid and left quickly.
+8308 	 His friend got angry that Bob had borrowed the boat.
+7165 	 Bill was miserable with his construction job.
+1792 	 He was very happy when he saw his paycheck with the overtime on it.
+Similarity: 0.43984406131026554
+
+Original Story:
+7498 	 She answered the calls, ruining the proposal.
+Actual Story:
+7499 	 Todd was so mad, he took the ring back and walked away.
+Predicted Story:
+9629 	 Janice was happy she would be ready for her date.
+8525 	 Cathy was heartbroken that she lost the bid for the doll.
+10589 	 Cathy was elated to get the phone call that the houseboat was hers.
+3419 	 Susan was glad that she decided to get the surgery.
+5105 	 Cathy was glad with her choice of television for her home.
+Similarity: 0.36357523957906046
+
