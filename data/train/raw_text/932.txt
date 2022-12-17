@@ -1,1 +1,1 @@
-Charles Sweeps The FloorCharles notices that his kitchen is messy.He decides he should sweep the floor.Charles uses a broom to sweep up his kitchen.When he is finished it is much cleaner.Charles is happy that his kitchen is no longer messy.
+Charles Sweeps The Floor\r\n\Charles notices that his kitchen is messy.\r\n\He decides he should sweep the floor.\r\n\Charles uses a broom to sweep up his kitchen.\r\n\When he is finished it is much cleaner.\r\n\Charles is happy that his kitchen is no longer messy.\r\n\

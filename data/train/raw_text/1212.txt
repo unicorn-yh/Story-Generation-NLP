@@ -1,1 +1,1 @@
-BabyThe baby started to cry.The mother walked over to the baby.She saw that the baby was hungry.She breastfed the baby.The baby went back to sleep.
+Baby\r\n\The baby started to cry.\r\n\The mother walked over to the baby.\r\n\She saw that the baby was hungry.\r\n\She breastfed the baby.\r\n\The baby went back to sleep.\r\n\

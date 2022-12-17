@@ -1,1 +1,1 @@
-No FoodIt was late at night.Max was hungry.He had no food in his apartment.He asked his neighbor for a snack.His neighbor gave him a whole meal.
+No Food\r\n\It was late at night.\r\n\Max was hungry.\r\n\He had no food in his apartment.\r\n\He asked his neighbor for a snack.\r\n\His neighbor gave him a whole meal.\r\n\

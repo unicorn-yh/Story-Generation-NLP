@@ -1,1 +1,1 @@
-John breaks downJohn is driving down the road.He begins to smell smoke from his car.He pulls over to check it out.His engine is blown up.He has to call a tow truck to tow him back to town.
+John breaks down\r\n\John is driving down the road.\r\n\He begins to smell smoke from his car.\r\n\He pulls over to check it out.\r\n\His engine is blown up.\r\n\He has to call a tow truck to tow him back to town.\r\n\

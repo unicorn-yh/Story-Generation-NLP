@@ -1,1 +1,1 @@
-Mary's BookMary spent the afternoon walking the streets of Barcelona.She stopped in a cafe for something to eat.She sat at a table to read and eat her food.She left her book on the table while she used the bathroom.When she returned, she found her book had been stolen.
+Mary's Book\r\n\Mary spent the afternoon walking the streets of Barcelona.\r\n\She stopped in a cafe for something to eat.\r\n\She sat at a table to read and eat her food.\r\n\She left her book on the table while she used the bathroom.\r\n\When she returned, she found her book had been stolen.\r\n\

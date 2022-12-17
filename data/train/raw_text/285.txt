@@ -1,1 +1,1 @@
-Train Sets are BoringThomas bought a train set.His father helped him set it up in the garage.They ran the train around the track for a few minutes.Thomas thought that it was pretty boring.He gave the train set to his neighbor the next day.
+Train Sets are Boring\r\n\Thomas bought a train set.\r\n\His father helped him set it up in the garage.\r\n\They ran the train around the track for a few minutes.\r\n\Thomas thought that it was pretty boring.\r\n\He gave the train set to his neighbor the next day.\r\n\

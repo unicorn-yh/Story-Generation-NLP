@@ -1,1 +1,1 @@
-Science TestNiels had a science test in the morning.He stayed up late playing video games.He forgot to study for the test!He tried his best, but to no avail.Niels failed his test.
+Science Test\r\n\Niels had a science test in the morning.\r\n\He stayed up late playing video games.\r\n\He forgot to study for the test!\r\n\He tried his best, but to no avail.\r\n\Niels failed his test.\r\n\

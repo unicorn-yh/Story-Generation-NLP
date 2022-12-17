@@ -1,1 +1,1 @@
-Shopping tripJohn went shopping today.He was unsure of what he wanted.He visited a few stores.There was a lot of things he considered.He decided on a new book.
+Shopping trip\r\n\John went shopping today.\r\n\He was unsure of what he wanted.\r\n\He visited a few stores.\r\n\There was a lot of things he considered.\r\n\He decided on a new book.\r\n\

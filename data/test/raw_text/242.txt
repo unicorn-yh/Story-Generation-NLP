@@ -1,1 +1,1 @@
-The DogHank bought a new dog.He took it home and started to train it.Within a day, the dog knew five tricks!It was the smartest dog Hank had ever seen.He bragged to all of his friends about his new dog.
+The Dog\r\n\Hank bought a new dog.\r\n\He took it home and started to train it.\r\n\Within a day, the dog knew five tricks!\r\n\It was the smartest dog Hank had ever seen.\r\n\He bragged to all of his friends about his new dog.\r\n\

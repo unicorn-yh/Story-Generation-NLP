@@ -1,1 +1,1 @@
-CarTom was driving his car and had a flat tire.He pulled his car over to the side of the road.He got the spare tire out and started to change the tire.A stranger stopped to help him.Together they put the spare tire on the car.
+Car\r\n\Tom was driving his car and had a flat tire.\r\n\He pulled his car over to the side of the road.\r\n\He got the spare tire out and started to change the tire.\r\n\A stranger stopped to help him.\r\n\Together they put the spare tire on the car.\r\n\

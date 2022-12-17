@@ -1,1 +1,1 @@
-The rainThe sky was dark and cloudy.It started to rain.Tom ran towards under a tree for shelter.Lightning struck the tree.Tom was lucky to be alive.
+The rain\r\n\The sky was dark and cloudy.\r\n\It started to rain.\r\n\Tom ran towards under a tree for shelter.\r\n\Lightning struck the tree.\r\n\Tom was lucky to be alive.\r\n\

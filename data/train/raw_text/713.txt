@@ -1,1 +1,1 @@
-Chess masterJane wanted to learned chess.Jane read books on how to play.Jane played Eric in a game of chess and lost.Eric helped Jane get better at Chess.Jane eventually beat Eric at chess.
+Chess master\r\n\Jane wanted to learned chess.\r\n\Jane read books on how to play.\r\n\Jane played Eric in a game of chess and lost.\r\n\Eric helped Jane get better at Chess.\r\n\Jane eventually beat Eric at chess.\r\n\

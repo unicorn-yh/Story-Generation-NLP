@@ -1,1 +1,1 @@
-TestNick and Kay went to the same school.They were good friends.There was a big math test coming up soon.Nick was bad at math, but Kay was good at it.Kay helped Nick study for the test.
+Test\r\n\Nick and Kay went to the same school.\r\n\They were good friends.\r\n\There was a big math test coming up soon.\r\n\Nick was bad at math, but Kay was good at it.\r\n\Kay helped Nick study for the test.\r\n\

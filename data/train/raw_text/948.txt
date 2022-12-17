@@ -1,1 +1,1 @@
-ConcertMy friend won tickets to a concert.She offered me the extra ticket.I gladly accepted it.We got there late because of traffic.We still had a great time.
+Concert\r\n\My friend won tickets to a concert.\r\n\She offered me the extra ticket.\r\n\I gladly accepted it.\r\n\We got there late because of traffic.\r\n\We still had a great time.\r\n\

@@ -1,1 +1,1 @@
-Jake Takes A TestJake is preparing for a difficult science test.He knows that the test will be hard.Jake spends the entire weekend in the library studying.He finally takes the test and gets a passing grade.Jake is happy that he prepared for the test.
+Jake Takes A Test\r\n\Jake is preparing for a difficult science test.\r\n\He knows that the test will be hard.\r\n\Jake spends the entire weekend in the library studying.\r\n\He finally takes the test and gets a passing grade.\r\n\Jake is happy that he prepared for the test.\r\n\

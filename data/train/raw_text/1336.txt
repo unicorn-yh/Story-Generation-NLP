@@ -1,1 +1,1 @@
-LetterTom found a letter in his mailbox.It was addressed to his neighbor.He went next door and gave his neighbor the letter.His neighbor was very grateful.Tom and his neighbor became good friends.
+Letter\r\n\Tom found a letter in his mailbox.\r\n\It was addressed to his neighbor.\r\n\He went next door and gave his neighbor the letter.\r\n\His neighbor was very grateful.\r\n\Tom and his neighbor became good friends.\r\n\

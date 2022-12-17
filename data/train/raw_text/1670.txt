@@ -1,1 +1,1 @@
-HungryAnna was hungry.She went through her house to find food.Nothing appealed to her.Finally, she called in a pizza.Finally, Anna satisfied her appetite!
+Hungry\r\n\Anna was hungry.\r\n\She went through her house to find food.\r\n\Nothing appealed to her.\r\n\Finally, she called in a pizza.\r\n\Finally, Anna satisfied her appetite!\r\n\

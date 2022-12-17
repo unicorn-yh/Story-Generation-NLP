@@ -1,1 +1,1 @@
-CancerTom felt ill.He went to see the doctor.The doctor told him he had cancer.Tom received chemotherapy to treat the cancer.The treatment was a success.
+Cancer\r\n\Tom felt ill.\r\n\He went to see the doctor.\r\n\The doctor told him he had cancer.\r\n\Tom received chemotherapy to treat the cancer.\r\n\The treatment was a success.\r\n\
