@@ -1,1 +1,0 @@
-The Library book\r\n\I checked out a book at the library.\r\n\It was a good read.\r\n\However, I lost the book.\r\n\I looked everywhere.\r\n\I finally found it on the floor of my car.\r\n\

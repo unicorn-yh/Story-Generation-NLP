@@ -1,1 +1,0 @@
-homework\r\n\Jasmine had homework to do.\r\n\She did not have a pencil.\r\n\She looked around the room for one.\r\n\The room did not have a pencil.\r\n\Jasmine decided not to do her homework.\r\n\

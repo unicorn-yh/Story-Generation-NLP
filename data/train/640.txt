@@ -1,1 +1,0 @@
-Dentist\r\n\My tooth hurt.\r\n\I went to see the dentist.\r\n\He told me that I had a cavity in one tooth.\r\n\He filled my tooth.\r\n\My tooth doesn't hurt anymore.\r\n\

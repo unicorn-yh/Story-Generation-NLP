@@ -1,1 +1,0 @@
-Book\r\n\Tom had a test the next day.\r\n\He looked for his book so that he could study for the test.\r\n\He was unable to find the book.\r\n\He did badly on the test.\r\n\After the test, he found his book under his bed.\r\n\

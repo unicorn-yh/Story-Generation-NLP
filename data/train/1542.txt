@@ -1,1 +1,0 @@
-Mole\r\n\Sue found a mole on her arm.\r\n\It was dark in color and raised.\r\n\She decided to have it checked by the doctor.\r\n\The doctor decided to biopsy it.\r\n\It ended up being benign and cancer-free.\r\n\
