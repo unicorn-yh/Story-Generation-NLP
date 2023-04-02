@@ -1,5 +1,5 @@
 # Story-Generation-NLP
- Generating following context using LSTM and GRU
+ Generating following context using LSTM and GPT-2
 
 <br>
 
@@ -23,7 +23,7 @@ Originally proposed in 2017 by Roemelle and Gordon et al. [1], and Khalifa et al
 
 In order to solve the above problems, Martin et al. [3] proposed the concept of converting stories from natural language to event tuples in 2018 to reduce the sparsity of the story corpus. A tuple can be represented as $e = < s, v, o, p, m >$, where $s$ is the subject, $v$ is the verb, $o$ is the object, $p$ is the preposition, and $m$ is the appended noun accompanying the preposition. 
 
-To give an example of an English sentence, "Kevin continuously wipe his dirty table in the classroom" would be represented as the tuple $<Kevin, wipe, table, in, classroom>$, and be followed by a semantic part of speech from WordNet or a semantic class from VerbNet Verb frame classes to replace and generalize these terms in one step, e.g. $< person − 1, clean − 2.4, furniture. 2, area. 5 >$.
+To give an example of an English sentence, "Kevin continuously wipe his dirty table in the classroom" would be represented as the tuple <Kevin, wipe, table, in, classroom>, and be followed by a semantic part of speech from WordNet or a semantic class from VerbNet Verb frame classes to replace and generalize these terms in one step, e.g. $< person − 1, clean − 2.4, furniture. 2, area. 5 >$.
 
 The above theory reduces the sparsity of the story corpus to a certain extent, and can learn and generate better event sequences than when processing the original text. However, the above theory faces the situation that event tuples are difficult to read, so a second neural network is subsequently introduced to convert event tuples back to complete sentences. The "eventization" of sentences (i.e., the process of converting them into tuples) is a lossy process, so the task of this neural network is to recover sentence information in a contextual way, which is equivalent to retelling an abstract story in natural language.
 
@@ -49,7 +49,7 @@ In early 2019, OpenAI proposed GPT-2 (Generative Pretrained Transformer 2), a hu
 
 The above problems can be solved by means of parameter adjustment or hardware. First, the gradient descent step can be optimized by using gradient accumulation. This algorithm sums the gradients of several operations and divides the total by the number of accumulation steps to obtain the average loss of the training samples, thereby reducing the calculation when training the model. quantity. For the hardware method, this experiment uses the GPU on the Google Colab platform to fine-tune and train the GPT-2 model.
 
-Model we used: **DistilGPT2**.
+Model we used: ***DistilGPT2***.
 
 DistilGPT2 is an English-based language model pretrained under the supervision of a minimal version of GPT-2 for text generation. The DistilGPT2 model, developed by HuggingFace, is a Transformer-based English pre-trained language model. Unlike GPT-2's huge model with hundreds of millions of parameters, DistilGPT2 has only 82 million parameters and was developed using knowledge distillation. It is a faster and lighter model version than GPT-2.
 
@@ -71,7 +71,9 @@ The model hyperparameters are set as follows: ***number of iterations=5, batch s
 
 ## Experiment environment
 
-Environment: *Visual Studio Code 1.74.1 + Python 3.7.7*  & *Google Colab Pro + Python 3.8.16 + Premium GPU*
+Environment 1: Visual Studio Code 1.74.1 + Python 3.7.7
+
+Environment 2: Google Colab Pro + Python 3.8.16 + Premium GPU
 
 Dataset: ROCStories Dataset
 
